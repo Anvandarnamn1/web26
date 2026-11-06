@@ -1,4 +1,3 @@
-
 <script lang="ts">
   import {getForum, createForum } from "./forum.remote";
 </script>
